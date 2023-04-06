@@ -1,0 +1,1 @@
+Remember to run ./host.sh as root 
