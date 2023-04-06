@@ -1,1 +1,1 @@
-Remember to run ./host.sh as root 
+Remember to run ./hosted.sh as root 
