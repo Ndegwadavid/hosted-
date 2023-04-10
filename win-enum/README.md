@@ -5,3 +5,6 @@ Due to demand for th ewindoes verson i will be making the tool.
          > but we have to do this 🥲
 
          > contact me :davidndegwa6869@gmail.com
+
+         (note).
+         > i have not tested yet on windows OS
