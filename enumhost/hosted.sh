@@ -2,6 +2,7 @@
 
 # Hosts in my subnet to from port 21 all the way to 8443
 # Author: savageprogram && thunder@thunder
+# For debian distributions 
 
 ipmask_array=(`ip -4 -br a | grep -v "127" | awk -F " " '{print $(NF)}'`);
 ip_array=(`ip -4 -br a | grep -v "127" | awk -F " " '{print $(NF)}' | cut -d "/" -f1`);
