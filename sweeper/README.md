@@ -1,0 +1,1 @@
+simple bash screep for a ping sweep to check your ip
